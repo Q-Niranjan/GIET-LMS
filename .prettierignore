@@ -1,0 +1,12 @@
+dist
+node_modules
+.next
+build
+.contentlayer
+yarn.lock
+pnpm-lock.yaml
+.env
+.env.local
+.env.development
+.env.test
+.env.production
