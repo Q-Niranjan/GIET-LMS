@@ -1,1 +1,1 @@
-# StudyNotion Edtech Project
+# Learning management system 
